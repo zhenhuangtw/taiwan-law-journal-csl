@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" default-locale="zh">
+  <info>
+    <title>臺北大學法學論叢 (Taipei University Law Review)</title>
+    <title-short>臺北法學 NTPU Law Rev</title-short>
+    <id>http://www.zotero.org/styles/taipei-university-law-review</id>
+    <link rel="self" href="http://www.zotero.org/styles/taipei-university-law-review"/>
+    <author>
+      <name>趙承灝 (Cheng-Hao CHAO)</name>
+      <email>r12a21054@g.ntu.edu.tw</email>
+    </author>
+    <author>
+      <name>黃振 (Zhen HUANG)</name>
+      <email>s411171461@gm.ntpu.edu.tw</email>
+      <uri>https://www.zhenhuang.tw</uri>
+    </author>
+    <category field="law"/>
+    <issn>1681-5939</issn>
+    <issnl>1018-3825</issnl>
+    <summary>本檔案依據國立臺北大學法律學院《臺北大學法學論叢》（前稱：中興法學）引註格式編纂，修改自趙承灝先生發布的「國立臺灣大學法學論叢（2020年新修版）」格式。</summary>
+    <updated>2025-01-18T11:00:00+08:00</updated>
+    <link href="http://120.126.142.101/" />
+  </info>
+</style>
